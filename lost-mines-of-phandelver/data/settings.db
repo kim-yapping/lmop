@@ -1,0 +1,27 @@
+{"_id":"1qAEekPho00Urz9s","key":"core.time","value":"6"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-lost-mines-of-phandelver-spells\"","_id":"1uvFTGpvb4pWZFee"}
+{"key":"ddb-importer.entity-subclass-compendium","value":"\"world.ddb-lost-mines-of-phandelver-subclasses\"","_id":"7MPQLBWXbfQzLMaR"}
+{"key":"core.compendiumConfiguration","value":"{\"world.ddb-lost-mines-of-phandelver-tables\":{\"private\":false,\"locked\":false}}","_id":"8FJTHhHCr8TBvxOE"}
+{"key":"ddb-importer.entity-vehicle-compendium","value":"\"world.ddb-lost-mines-of-phandelver-vehicles\"","_id":"8amSul2QaherBUaQ"}
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-lost-mines-of-phandelver-items\"","_id":"C8WcmeCzcY5JNtlO"}
+{"_id":"Cap8N2I43w0kQX42","key":"enhanced-terrain-layer.showterrain","value":"false"}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-lost-mines-of-phandelver-monsters\"","_id":"FBYozz4FMOrykvx9"}
+{"key":"core.nue.shownTips","value":"true","_id":"HEE4XQe5W9W7Mlhl"}
+{"key":"ddb-importer.dynamic-sync-user","value":"\"FXRQBhDqRK3rODE5\"","_id":"J2CoxWXkWs5JuEMk"}
+{"key":"vtta-tokenizer.frame-directory","value":"\"[data] C:\\\\Foundry VTT\\\\Assets\\\\Tokens\"","_id":"KjeVhi8Py3X1l7Gf"}
+{"_id":"Lq90bJ9yiOfCVWc1","key":"core.moduleConfiguration","value":"{\"uchideshi34-lmop-maps\":true,\"vtta-tokenizer\":true,\"turnmarker\":true,\"baileywiki-maps\":true,\"ddb-importer\":true,\"dice-so-nice\":true,\"dice-calculator\":true,\"vtta-iconizer\":true,\"lmrtfy\":true,\"scene-packer\":true,\"lib-wrapper\":true,\"token-attacher\":true,\"enhanced-terrain-layer\":true,\"magicitems\":true,\"terrain-ruler\":true}"}
+{"key":"dnd5e.systemMigrationVersion","value":"\"1.6.3\"","_id":"Mhr6QrEEGvaA7MZG"}
+{"key":"ddb-importer.entity-table-compendium","value":"\"world.ddb-lost-mines-of-phandelver-tables\"","_id":"PP9lhxsueMFYVzWQ"}
+{"key":"dice-so-nice.formatVersion","value":"\"4.1\"","_id":"QEVB2ngx9BHeRRb5"}
+{"key":"core.compendiumConfiguration","value":"{\"world.ddb-lost-mines-of-phandelver-tables\":{\"private\":false,\"locked\":false}}","_id":"WIQxeYfr4uMFAVB4"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-lost-mines-of-phandelver-classes\"","_id":"dsZt2rLrlVLNZ7yu"}
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-lost-mines-of-phandelver-racial-traits\"","_id":"jh7aFV0HZSqqxy8Y"}
+{"key":"core.compendiumConfiguration","value":"{\"world.ddb-lost-mines-of-phandelver-tables\":{\"private\":false,\"locked\":false}}","_id":"jpLDwcTDvnQ2oxnz"}
+{"key":"core.compendiumConfiguration","value":"{\"world.ddb-lost-mines-of-phandelver-tables\":{\"private\":false,\"locked\":false}}","_id":"kMFHrrsDocdSaeN5"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-lost-mines-of-phandelver-races\"","_id":"s1SXJUzUf7Esm6cA"}
+{"key":"core.compendiumConfiguration","value":"{\"world.ddb-lost-mines-of-phandelver-tables\":{\"private\":false,\"locked\":false}}","_id":"sOCOaD2OUjKS3rJi"}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-lost-mines-of-phandelver-feats\"","_id":"tdwg04vV5u1YOqeD"}
+{"key":"ddb-importer.entity-background-compendium","value":"\"world.ddb-lost-mines-of-phandelver-backgrounds\"","_id":"tq7kN4miwr0isGIe"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-lost-mines-of-phandelver-class-features\"","_id":"u0D0G8uKrqsQs76q"}
+{"key":"ddb-importer.entity-override-compendium","value":"\"world.ddb-lost-mines-of-phandelver-override\"","_id":"xlDe5jwSK8MPRJYP"}
+{"key":"core.permissions","value":"{\"ACTOR_CREATE\":[3,4],\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"NOTE_CREATE\":[2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"zQNQyC9XoICh6whc"}
